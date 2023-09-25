@@ -1,1 +1,1 @@
-"# little_projects" 
+This repository has the little projects I did while I was learning Python. These exercises can be found in "Python for Everbody" course on Coursera and in the book called "Automate The Boring Stuff with Python Practices". I finished the course and the book and I definitely recommend them for those who are learning Python. There are many more little exercises than these in the book and the course, which will help you to get comfortable with Python.
